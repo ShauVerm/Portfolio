@@ -1,0 +1,21 @@
+a:link{ color: #00ff08}
+a:visited{color: #ff8400}
+img:hover{
+transform: translate(-3%, -3%);    
+}
+h2{
+font-style: italic;
+font-family: cursive;
+}
+.header{
+background-color:#050036;    
+}
+.grid{
+display: flex;
+flex-direction: row; 
+flex-wrap: wrap;   
+justify-content: space-evenly;
+}
+body{
+background-color: #a80303;    
+}
